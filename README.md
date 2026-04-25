@@ -26,4 +26,3 @@ Run the Streamlit application:
 ```bash
 streamlit run app/ui/streamlit_app.py
 ```
-
